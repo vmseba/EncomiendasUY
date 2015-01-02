@@ -19,8 +19,6 @@ class ConsultaController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //documento.text = "35011404"
-        //fecha.text = "2014"
         
     }
     
